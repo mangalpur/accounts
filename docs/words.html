@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./wordsApp/w3.css">
+<link rel="stylesheet" href="./wordsApp/styles.css">
+<script src="./wordsApp/angular/lib/angular.min.js"></script>
+<script src="./wordsApp/angular/lib/angular-touch.js"></script>
+<script src="./wordsApp/scripts/wordApp.js"></script>
+</head>
+<body>
+
+<div class="w3-container" ng-app="myApp" ng-controller="myCtrl">
+  <div class="w3-card-4">
+    <header class="w3-container header" ng-class="timedOut ? 'w3-purple' : 'w3-blue'" >
+      <h1>Daily Words List</h1>
+    </header>
+
+    <div class="w3-container w3-card">
+     <ul class="w3-ul w3-xxlarge" ng-if="word.count==0" ng-repeat="word in words | filter: {count:0 } | limitTo:3" ng-swipe-right="right(word)">
+	  <li>{{word.name}} <span class="w3-badge w3-large w3-yellow">{{word.count}}</span></li>
+	</ul>
+    </div>
+
+    <footer class="w3-container w3-blue" ng-class="timedOut ? 'w3-purple' : 'w3-blue'">
+      <h5>Manasvi's Words list</h5>
+    </footer>
+  </div>
+</div>
+</body>
+</html>
