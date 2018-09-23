@@ -1,6 +1,6 @@
 var app = angular.module('myApp',  ['ngTouch']);
 app.controller('myCtrl', function($scope, $http, $timeout) {
-  $http.get("./data/words.json").then(function (response) {
+  $http.get("../data/words.json").then(function (response) {
       $scope.words = response.data;
 	  $scope.showActions = false;
 	  $scope.timedOut = false;
