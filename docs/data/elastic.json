@@ -1,0 +1,218 @@
+{"index":{"_id":1}}
+{"name": "accident(ally)" , "Year":["3","4" ] , "learned": ["06-09-2018"]}
+{"index":{"_id":2}}
+{"name": "actual(ly)" , "Year":["3","4" ] , "learned": ["06-09-2018"]}
+{"index":{"_id":3}}
+{"name": "accidentally" , "Year":["3","4" ] , "learned": ["06-09-2018"]}
+{"index":{"_id":4}}
+{"name": "actually" , "Year":["3","4" ] , "learned": ["07-09-2018"]}
+{"index":{"_id":5}}
+{"name": "address" , "Year":["3","4" ], "learned": ["07-09-2018"]}
+{"index":{"_id":6}}
+{"name": "answer" , "Year":["3","4" ], "learned": ["07-09-2018"]}
+{"index":{"_id":7}}
+{"name": "appear" , "Year":["3","4" ], "learned": ["09-09-2018"]}
+{"index":{"_id":8}}
+{"name": "arrive" , "Year":["3","4" ], "learned": ["09-09-2018"]}
+{"index":{"_id":9}}
+{"name": "although" , "Year":["3","4" ], "learned": ["09-09-2018"]}
+{"index":{"_id":10}}
+{"name": "believe" , "Year":["3","4" ], "learned": ["10-09-2018"]}
+{"index":{"_id":11}}
+{"name": "bicycle" , "Year":["3","4" ], "learned": ["10-09-2018"]}
+{"index":{"_id":12}}
+{"name": "breath" , "Year":["3","4" ], "learned": ["10-09-2018"]}
+{"index":{"_id":13}}
+{"name": "breathe", "Year":["3","4" ], "learned": ["11-09-2018"]}
+{"index":{"_id":14}}
+{"name": "build", "Year":["3","4" ], "learned": ["11-09-2018"]}
+{"index":{"_id":15}}
+{"name": "busy/business", "Year":["3","4" ], "learned": ["11-09-2018"]}
+{"index":{"_id":16}}
+{"name": "business", "Year":["3","4" ], "learned": ["12-09-2018"]}
+{"index":{"_id":17}}
+{"name": "calendar", "Year":["3","4" ], "learned": ["12-09-2018"]}
+{"index":{"_id":18}}
+{"name": "caught", "Year":["3","4" ], "learned": ["12-09-2018"]}
+{"index":{"_id":19}}
+{"name": "centre", "Year":["3","4" ], "learned": ["13-09-2018"]}
+{"index":{"_id":20}}
+{"name": "century", "Year":["3","4" ], "learned": ["13-09-2018"]}
+{"index":{"_id":21}}
+{"name": "certain", "Year":["3","4" ], "learned": ["13-09-2018"]}
+{"index":{"_id":22}}
+{"name": "circle", "Year":["3","4" ], "learned": ["14-09-2018"]}
+{"index":{"_id":23}}
+{"name": "complete", "Year":["3","4" ], "learned": ["14-09-2018"]}
+{"index":{"_id":24}}
+{"name": "consider", "Year":["3","4" ], "learned": ["14-09-2018"]}
+{"index":{"_id":25}}
+{"name": "continue", "Year":["3","4" ]}
+{"index":{"_id":26}}
+{"name": "decide", "Year":["3","4" ]}
+{"index":{"_id":27}}
+{"name": "describe", "Year":["3","4" ]}
+{"index":{"_id":28}}
+{"name": "different", "Year":["3","4" ], "learned": ["17-09-2018"]  }
+{"index":{"_id":29}}
+{"name": "difficult", "Year":["3","4" ], "learned": ["17-09-2018"]  }
+{"index":{"_id":30}}
+{"name": "disappear", "Year":["3","4" ], "learned": ["17-09-2018"]  }
+{"index":{"_id":31}}
+{"name": "early", "Year":["3","4" ]}
+{"index":{"_id":32}}
+{"name": "earth", "Year":["3","4" ]}
+{"index":{"_id":33}}
+{"name": "eight/eighth", "Year":["3","4" ]}
+{"index":{"_id":35}}
+{"name": "eighth", "Year":["3","4" ]}
+{"index":{"_id":36}}
+{"name": "enough", "Year":["3","4" ]}
+{"index":{"_id":37}}
+{"name": "exercise", "Year":["3","4" ]}
+{"index":{"_id":38}}
+{"name": "experience", "Year":["3","4" ]}
+{"index":{"_id":39}}
+{"name": "experiment", "Year":["3","4" ]}
+{"index":{"_id":40}}
+{"name": "extreme", "Year":["3","4" ]}
+{"index":{"_id":41}}
+{"name": "famous", "Year":["3","4" ]}
+{"index":{"_id":42}}
+{"name": "favourite", "Year":["3","4" ]}
+{"index":{"_id":43}}
+{"name": "February", "Year":["3","4" ]}
+{"index":{"_id":44}}
+{"name": "forward(s)", "Year":["3","4" ]}
+{"index":{"_id":45}}
+{"name": "forwards", "Year":["3","4" ]}
+{"index":{"_id":46}}
+{"name": "fruit", "Year":["3","4" ]}
+{"index":{"_id":47}}
+{"name": "grammar", "Year":["3","4" ]}
+{"index":{"_id":48}}
+{"name": "group", "Year":["3","4" ]}
+{"index":{"_id":49}}
+{"name": "guard", "Year":["3","4" ]}
+{"index":{"_id":50}}
+{"name": "guide", "Year":["3","4" ]}
+{"index":{"_id":51}}
+{"name": "heard", "Year":["3","4" ]}
+{"index":{"_id":52}}
+{"name": "heart", "Year":["3","4" ]}
+{"index":{"_id":53}}
+{"name": "height", "Year":["3","4" ]}
+{"index":{"_id":54}}
+{"name": "history", "Year":["3","4" ]}
+{"index":{"_id":55}}
+{"name": "imagine", "Year":["3","4" ]}
+{"index":{"_id":57}}
+{"name": "increase", "Year":["3","4" ]}
+{"index":{"_id":58}}
+{"name": "important", "Year":["3","4" ]}
+{"index":{"_id":59}}
+{"name": "interest", "Year":["3","4" ]}
+{"index":{"_id":60}}
+{"name": "island", "Year":["3","4" ]}
+{"index":{"_id":61}}
+{"name": "knowledge", "Year":["3","4" ]}
+{"index":{"_id":62}}
+{"name": "learn", "Year":["3","4" ]}
+{"index":{"_id":63}}
+{"name": "length", "Year":["3","4" ]}
+{"index":{"_id":64}}
+{"name": "library", "Year":["3","4" ]}
+{"index":{"_id":65}}
+{"name": "material", "Year":["3","4" ]}
+{"index":{"_id":66}}
+{"name": "medicine", "Year":["3","4" ]}
+{"index":{"_id":67}}
+{"name": "mention", "Year":["3","4" ]}
+{"index":{"_id":68}}
+{"name": "minute", "Year":["3","4" ]}
+{"index":{"_id":69}}
+{"name": "natural", "Year":["3","4" ]}
+{"index":{"_id":70}}
+{"name": "naughty", "Year":["3","4" ]}
+{"index":{"_id":71}}
+{"name": "notice", "Year":["3","4" ]}
+{"index":{"_id":72}}
+{"name": "occasion(ally)", "Year":["3","4" ]}
+{"index":{"_id":73}}
+{"name": "occasionally", "Year":["3","4" ]}
+{"index":{"_id":74}}
+{"name": "often", "Year":["3","4" ]}
+{"index":{"_id":75}}
+{"name": "opposite", "Year":["3","4" ]}
+{"index":{"_id":76}}
+{"name": "ordinary", "Year":["3","4" ]}
+{"index":{"_id":77}}
+{"name": "particular", "Year":["3","4" ]}
+{"index":{"_id":78}}
+{"name": "peculiar", "Year":["3","4" ]}
+{"index":{"_id":79}}
+{"name": "perhaps", "Year":["3","4" ]}
+{"index":{"_id":80}}
+{"name": "popular", "Year":["3","4" ]}
+{"index":{"_id":81}}
+{"name": "position", "Year":["3","4" ]}
+{"index":{"_id":82}}
+{"name": "possess(ion)", "Year":["3","4" ]}
+{"index":{"_id":83}}
+{"name": "possession", "Year":["3","4" ]}
+{"index":{"_id":84}}
+{"name": "possible", "Year":["3","4" ]}
+{"index":{"_id":85}}
+{"name": "potatoes", "Year":["3","4" ]}
+{"index":{"_id":86}}
+{"name": "pressure", "Year":["3","4" ]}
+{"index":{"_id":87}}
+{"name": "probably", "Year":["3","4" ]}
+{"index":{"_id":88}}
+{"name": "promise", "Year":["3","4" ]}
+{"index":{"_id":89}}
+{"name": "purpose", "Year":["3","4" ]}
+{"index":{"_id":90}}
+{"name": "quarter", "Year":["3","4" ]}
+{"index":{"_id":91}}
+{"name": "question", "Year":["3","4" ]}
+{"index":{"_id":92}}
+{"name": "recent", "Year":["3","4" ]}
+{"index":{"_id":93}}
+{"name": "regular", "Year":["3","4" ]}
+{"index":{"_id":94}}
+{"name": "reign", "Year":["3","4" ]}
+{"index":{"_id":95}}
+{"name": "remember", "Year":["3","4" ]}
+{"index":{"_id":96}}
+{"name": "sentence", "Year":["3","4" ]}
+{"index":{"_id":97}}
+{"name": "separate", "Year":["3","4" ]}
+{"index":{"_id":98}}
+{"name": "special", "Year":["3","4" ]}
+{"index":{"_id":99}}
+{"name": "straight", "Year":["3","4" ]}
+{"index":{"_id":100}}
+{"name": "strange", "Year":["3","4" ]}
+{"index":{"_id":101}}
+{"name": "strength", "Year":["3","4" ]}
+{"index":{"_id":102}}
+{"name": "suppose", "Year":["3","4" ]}
+{"index":{"_id":103}}
+{"name": "surprise", "Year":["3","4" ]}
+{"index":{"_id":104}}
+{"name": "therefore", "Year":["3","4" ]}
+{"index":{"_id":105}}
+{"name": "though/although", "Year":["3","4" ]}
+{"index":{"_id":106}}
+{"name": "thought", "Year":["3","4" ]}
+{"index":{"_id":107}}
+{"name": "through", "Year":["3","4" ]}
+{"index":{"_id":108}}
+{"name": "various", "Year":["3","4" ]}
+{"index":{"_id":109}}
+{"name": "weight", "Year":["3","4" ]}
+{"index":{"_id":110}}
+{"name": "woman/women", "Year":["3","4" ]}
+{"index":{"_id":111}}
+{"name": "women" , "Year":["3","4" ]}
